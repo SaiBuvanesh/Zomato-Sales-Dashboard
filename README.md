@@ -12,11 +12,9 @@ Welcome to the **Zomato Sales Analysis** repository! We took massive datasets sp
 
 ### ✨ Dashboard Preview
 
-Here is a quick view of the dashboard. Feel free to download or scroll through the PDF.
+[**🚀 View the Live Interactive Dashboard Snapshot (PDF)**](https://saibuvanesh.github.io/Zomato-Sales-Dashboard/) 
 
-<object data="Zomato%20Sales.pdf" type="application/pdf" width="100%" height="700px">
-  <p>Unable to display PDF file. <a href="Zomato%20Sales.pdf">Download</a> instead.</p>
-</object>
+*(GitHub strips out direct PDF embeds in READMEs, so we've set up a dedicated live page for an uncompromised viewing experience. Click the link above!)*
 
 ---
 
